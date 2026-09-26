@@ -34,9 +34,9 @@ The absolute easiest way to run this application is using Docker. You do not nee
    - **Frontend App:** [http://localhost:5173](http://localhost:5173)
    - **Backend API:** [http://localhost:4000](http://localhost:4000)
 
-5.live website:https://wmss-uta.vercel.app
+5. live website:https://wmss-uta.vercel.app
 
- ### 👤 User Login
+### 👤 User Login
 - Email: vaishali12@gmail.com  
 - Password: Vaishali@123  
 
