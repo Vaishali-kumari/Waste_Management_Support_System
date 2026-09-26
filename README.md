@@ -1,5 +1,4 @@
 # Waste Management Support System (WMSS)
-
 A full-stack Waste Management Support System featuring a dynamic React frontend and a robust Node.js/Express backend. This platform facilitates effective waste management tracking, user and company profiles, and real-time support.
 
 ## Project Structure
@@ -34,6 +33,8 @@ The absolute easiest way to run this application is using Docker. You do not nee
 4. The application is now live!
    - **Frontend App:** [http://localhost:5173](http://localhost:5173)
    - **Backend API:** [http://localhost:4000](http://localhost:4000)
+
+5.live website:https://wmss-uta.vercel.app
 
  ### 👤 User Login
 - Email: vaishali12@gmail.com  
