@@ -35,6 +35,14 @@ The absolute easiest way to run this application is using Docker. You do not nee
    - **Frontend App:** [http://localhost:5173](http://localhost:5173)
    - **Backend API:** [http://localhost:4000](http://localhost:4000)
 
+ ### 👤 User Login
+- Email: vaishali12@gmail.com  
+- Password: Vaishali@123  
+
+### 🏢 Company Login
+- Email: gravita@gmail.com  
+- Password: Gravita@123  
+
 ## Tech Stack
 - Frontend: React 19, Vite, TailwindCSS, DaisyUI, Redux Toolkit
 - Backend: Node 20, Express, MongoDB (Atlas), Redis, Socket.io
